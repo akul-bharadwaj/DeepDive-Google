@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Jigsaw",
+  "description": "A modern, responsive jigsaw puzzle game featuring custom uploads, difficulty levels, and AI-generated puzzle images using Gemini.",
+  "requestFramePermissions": []
+}
